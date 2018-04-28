@@ -1,0 +1,12 @@
+{
+    "name": "express-hello-world",
+    "author": "aashir",
+    "private": true,
+    "dependencies": {
+        "body-parser": "^1.18.2",
+        "express": "^4.16.3",
+        "joi": "^13.2.0",
+        "morgan": "^1.9.0",
+        "nmon": "^0.2.2"
+    }
+}
